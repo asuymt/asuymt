@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ASU-YMT-1.png" alt="ASÜ Yazılım Mühendisliği Topluluğu Logosu" width="200" />
+  <img src="https://github.com/asuymt/asuymt/blob/main/AS%C3%9C-YMT-1.png" alt="ASÜ Yazılım Mühendisliği Topluluğu Logosu" width="200" />
 </p>
 
 <h1 align="center">ASÜ Yazılım Mühendisliği Topluluğu</h1>
@@ -68,4 +68,5 @@ Aksaray Üniversitesi öğrencilerinin yazılım mühendisliği alanındaki teor
 | **Merkez**       | Mühendislik Fakültesi, Aksaray Üniversitesi |
 | **Kuruluş**      | Ekim 2025                                   |
 | **Alan**         | Yazılım, Teknoloji, Girişimcilik, Eğitim    |
+
 
