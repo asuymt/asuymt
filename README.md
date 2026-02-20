@@ -49,9 +49,9 @@ Aksaray Üniversitesi öğrencilerinin yazılım mühendisliği alanındaki teor
 
 ## 👥 Üyelik ve İletişim
 
-📝 **Topluluk Üyelik Başvurusu:** [Üyelik Formunu Doldur](https://docs.google.com/forms/d/e/YOUR-MEMBERSHIP-FORM-ID/viewform)
+📝 **Topluluk Üyelik Başvurusu:** [Üyelik Formunu Doldur](https://docs.google.com/forms/d/e/1FAIpQLSd2BhXusrtSe-jeLRr7kTVk4Ooup7tXWWU5kiow8sU57-O37w/viewform)
 
-💬 **İletişim & İş Birliği Talepleri:** [İletişim Formu Doldur](https://docs.google.com/forms/d/e/YOUR-CONTACT-FORM-ID/viewform)
+💬 **İletişim & İş Birliği Talepleri:** [İletişim Formu Doldur](https://docs.google.com/forms/d/e/1FAIpQLSeDyote8VfnBMlMlrnJusew6Kq87pnSUnjHpDiBKcGrfz54PQ/viewform)
 
 ---
 
@@ -103,6 +103,7 @@ Aksaray Üniversitesi öğrencilerinin yazılım mühendisliği alanındaki teor
 | **Bağlı Olduğu Birim** | Aksaray Üniversitesi SKS Öğrenci Toplulukları |
 | **Kuruluş**            | Ekim 2025                                     |
 | **Alan**               | Yazılım, Teknoloji, Girişimcilik, Eğitim      |
+
 
 
 
