@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/asuymt/asuymt/blob/main/AS%C3%9C-YMT-1.png" alt="ASÜ Yazılım Mühendisliği Topluluğu Logosu" width="200" />
+  <img src="https://github.com/asuymt/asuymt/blob/main/Kapak-1_6.png" alt="ASU-YMT Kapak"/>
 </p>
 
 <h1 align="center">ASÜ Yazılım Mühendisliği Topluluğu</h1>
@@ -11,6 +11,8 @@
 
 ---
 
+<br>
+
 ## 🌐 Genel Bakış
 
 **ASÜ Yazılım Mühendisliği Topluluğu (ASÜ-YMT)**, yazılım ve teknolojiye ilgi duyan öğrencilerin bir araya gelerek bilgi ve tecrübelerini paylaşmalarını, birlikte öğrenmelerini, projeler geliştirmelerini ve kendilerini geleceğe en iyi şekilde hazırlamalarını sağlamak amacıyla **Ekim 2025**’te kurulmuştur.
@@ -18,6 +20,8 @@
 > “Birlikte öğrenen, birlikte üreten, birlikte büyüyen bir topluluk.”
 
 ---
+
+<br>
 
 ## 🎯 Amaç & Vizyon
 
@@ -29,6 +33,8 @@ Aksaray Üniversitesi öğrencilerinin yazılım mühendisliği alanındaki teor
 
 ---
 
+<br>
+
 ## 🚀 Faaliyet Alanlarımız
 
 - 💻 **Eğitim Faaliyetleri:** Kurslar, atölye çalışmaları, seminerler  
@@ -39,17 +45,43 @@ Aksaray Üniversitesi öğrencilerinin yazılım mühendisliği alanındaki teor
 
 ---
 
+<br>
+
 ## 👥 Üyelik ve İletişim
 
-📝 **Topluluk Üyelik Başvurusu:**  
-👉 [Üyelik Formunu Doldur](https://docs.google.com/forms/d/e/YOUR-MEMBERSHIP-FORM-ID/viewform)
+📝 **Topluluk Üyelik Başvurusu:** [Üyelik Formunu Doldur](https://docs.google.com/forms/d/e/YOUR-MEMBERSHIP-FORM-ID/viewform)
 
-💬 **İletişim & İş Birliği Talepleri:**  
-📨 [İletişim Formu](https://docs.google.com/forms/d/e/YOUR-CONTACT-FORM-ID/viewform)
+💬 **İletişim & İş Birliği Talepleri:** [İletişim Formu Doldur](https://docs.google.com/forms/d/e/YOUR-CONTACT-FORM-ID/viewform)
+
+---
+
+<br>
+
+### 📡 Bizi Takip Edin
+
+<p align="center">
+  <a href="https://www.linkedin.com/company/asuymt/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ASÜ--YMT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://asuymt.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-asuymt.com-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/asuymt" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-asuymt-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/asuymt/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@asuymt-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 > Topluluk etkinlikleri, projeleri ve yeni duyurular için bizi takipte kalın!
 
 ---
+
+<br>
 
 ## 🧠 Felsefemiz
 
@@ -59,14 +91,18 @@ Aksaray Üniversitesi öğrencilerinin yazılım mühendisliği alanındaki teor
 
 ---
 
+<br>
+
 ## 📍 Bilgiler
 
-| Bilgi            | Detay                                       |
-| ---------------- | ------------------------------------------- |
-| **Topluluk Adı** | ASÜ Yazılım Mühendisliği Topluluğu          |
-| **Kısa Adı**     | ASÜ-YMT                                     |
-| **Merkez**       | Mühendislik Fakültesi, Aksaray Üniversitesi |
-| **Kuruluş**      | Ekim 2025                                   |
-| **Alan**         | Yazılım, Teknoloji, Girişimcilik, Eğitim    |
+| Bilgi                  | Detay                                         |
+| ---------------------- | --------------------------------------------- |
+| **Topluluk Adı**       | ASÜ Yazılım Mühendisliği Topluluğu            |
+| **Kısa Adı**           | ASÜ-YMT                                       |
+| **Merkez**             | Mühendislik Fakültesi, Aksaray Üniversitesi   |
+| **Bağlı Olduğu Birim** | Aksaray Üniversitesi SKS Öğrenci Toplulukları |
+| **Kuruluş**            | Ekim 2025                                     |
+| **Alan**               | Yazılım, Teknoloji, Girişimcilik, Eğitim      |
+
 
 
