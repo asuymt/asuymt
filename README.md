@@ -35,6 +35,16 @@ Aksaray Üniversitesi öğrencilerinin yazılım mühendisliği alanındaki teor
 
 <br>
 
+## 🧠 Felsefemiz
+
+> “Etrafındakilerin ortalaması kadarsın.”  
+> 
+> Bu nedenle; meraklı olanın bilgisini, tecrübeli olanın deneyimini paylaştığı, herkesin hem öğrenci hem de öğretmen olduğu bir kültürle birbirimizi sürekli olarak yukarı çekeriz.
+
+---
+
+<br>
+
 ## 🚀 Faaliyet Alanlarımız
 
 - 💻 **Eğitim Faaliyetleri:** Kurslar, atölye çalışmaları, seminerler  
@@ -83,16 +93,6 @@ Aksaray Üniversitesi öğrencilerinin yazılım mühendisliği alanındaki teor
 
 <br>
 
-## 🧠 Felsefemiz
-
-> “Etrafındakilerin ortalaması kadarsın.”  
-> 
-> Bu nedenle; meraklı olanın bilgisini, tecrübeli olanın deneyimini paylaştığı, herkesin hem öğrenci hem de öğretmen olduğu bir kültürle birbirimizi sürekli olarak yukarı çekeriz.
-
----
-
-<br>
-
 ## 📍 Bilgiler
 
 | Bilgi                  | Detay                                         |
@@ -103,6 +103,7 @@ Aksaray Üniversitesi öğrencilerinin yazılım mühendisliği alanındaki teor
 | **Bağlı Olduğu Birim** | Aksaray Üniversitesi SKS Öğrenci Toplulukları |
 | **Kuruluş**            | Ekim 2025                                     |
 | **Alan**               | Yazılım, Teknoloji, Girişimcilik, Eğitim      |
+
 
 
 
